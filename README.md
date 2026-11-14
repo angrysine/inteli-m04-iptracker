@@ -1,3 +1,31 @@
+# IPTracker
+
+> Portfólio de [Alberto da Rocha Miranda](https://github.com/angrysine) · Inteli · Módulo 4 · 2022
+
+## O que foi desenvolvido
+
+Solução IoT para localizar equipamentos do Instituto de Pesquisas Tecnológicas e apoiar o acompanhamento de ativos em sua rede interna.
+
+**Parceiro / contexto:** IPT.
+
+## Tecnologias e conceitos
+
+IoT · Next.js · JavaScript.
+
+## Participação e créditos
+
+Participei deste projeto como integrante da equipe no Inteli — Instituto de Tecnologia e Liderança. A solução é um trabalho coletivo; este fork organiza sua apresentação no meu portfólio e preserva os autores, créditos, licenças e materiais originais.
+
+[Repositório de origem](https://github.com/2022M4T1-Inteli/IPTRACKER) · [Portfólio](https://angrysine.github.io/)
+
+## Documentação e execução
+
+As instruções técnicas e os materiais da equipe foram preservados abaixo e nas pastas do repositório. Esta atualização organiza a apresentação do projeto acadêmico e não representa uma nova validação de execução.
+
+---
+
+## Documentação original da equipe
+
 # Inteli - Instituto de Tecnologia e Liderança
 
 <p  align="center">
